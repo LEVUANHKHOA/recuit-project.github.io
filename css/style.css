@@ -20,6 +20,9 @@ header .mega-menu {
     max-width: 1200px; }
 
 /* end header */
+.swiper img {
+  max-width: 100%; }
+
 /* Services Item */
 .navbar-expand-md .navbar-nav .nav-item {
   font-weight: 500;
